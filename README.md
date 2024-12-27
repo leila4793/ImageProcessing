@@ -13,7 +13,7 @@ Feel free to explore, learn, and adapt the code to your projects!
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone git@github.com:leila4793/ImageProcessing.git
 2. Navigate to the chapter folder you're interested in:
    ```bash
    cd Chapter_01
