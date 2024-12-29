@@ -1,7 +1,3 @@
-Here's a more detailed version of your README:
-
----
-
 # Mastering OpenCV with Python
 
 This repository contains the code examples from the book **Mastering OpenCV with Python: Use NumPy, Scikit, TensorFlow, and Matplotlib to Learn Advanced Algorithms for Machine Learning** (2023, Orange Education Pvt Ltd, AVA™). The code is designed to help you master computer vision and image processing techniques using Python, building on fundamental algorithms and exploring their applications in real-world scenarios.
@@ -48,7 +44,3 @@ We welcome contributions and feedback from the community!
 - For a more in-depth understanding, refer to the book **Mastering OpenCV with Python**.
 
 Happy coding and enjoy exploring the world of computer vision!
-
----
-
-Feel free to add or adjust sections if needed!
